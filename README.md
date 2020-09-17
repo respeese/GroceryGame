@@ -1,6 +1,6 @@
 # Grocery Shopper Game
 
-### A text-based game in which the user must get all the ingredient to throw a dinner party before they run out of energy. 
+### A text-based game in which the user must get all the ingredients to throw a successful dinner party before they run out of energy. 
 
 #### How to play
 After cloning the project, navigate to the game directory and run:
